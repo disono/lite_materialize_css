@@ -1,4 +1,4 @@
-# MaterializeCSS
+# Lite MaterializeCSS
 Lite Materialize, a CSS Framework based on [MaterializeCSS](https://github.com/Dogfalo/materialize).
 
 # Includes
