@@ -1,0 +1,31 @@
+{
+  "name": "lite_materialize_css",
+  "version": "1.0.0",
+  "description": "Lite Materialize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disono/lite_materialize_css.git"
+  },
+  "keywords": [
+    "lite",
+    "materializecss",
+    "material",
+    "material",
+    "design",
+    "materializecss",
+    "css",
+    "framework",
+    "css",
+    "design"
+  ],
+  "author": "Archie Disono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/disono/lite_materialize_css/issues"
+  },
+  "homepage": "https://github.com/disono/lite_materialize_css#readme"
+}

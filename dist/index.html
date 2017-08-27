@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Materialize CSS (Lite)</title>
+
+    <link rel="stylesheet" href="css/lite_materialize.min.css">
+  </head>
+
+  <body>
+    <input type="text" name="" value="" class="date_picker">
+    <input type="text" name="" value="" class="time_picker">
+    <input type="text" name="" value="">
+
+    <script src="js/jquery.slim.min.js"></script>
+    <script src="js/lite_materialize.min.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function () {
+		$('.date_picker').pickadate();
+		$('.time_picker').pickatime();
+	  });
+    </script>
+  </body>
+</html>
