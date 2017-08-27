@@ -4,5 +4,12 @@
 @import '_typography.scss';
 @import '_buttons.scss';
 @import '_default.scss';
-@import '_default.date.scss';
-@import '_default.time.scss';
+@import './date_picker/_default.scss';
+@import './date_picker/_default.date.scss';
+@import './date_picker/_default.time.scss';
+@import '_waves.scss';
+
+@import './forms/_checkboxes.scss';
+@import './forms/_input-fields.scss';
+@import './forms/_radio-buttons.scss';
+@import './forms/_switches.scss';
